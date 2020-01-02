@@ -3,5 +3,5 @@ but also for the driver and passengers to have a cup of coffee or other necessit
 especially in rural areas are places of people gathering for a chat or to have some fun. 
 Having a proper geo data of the gas stations distribution and road load statistics, it is possible to recommend one that intends to open a
 new gas station in a particular area regarding its necessity. For an existing station, you can check whether it is justified its existence.
-There are 2 csv files with data used for this project: one that comprises existing gas stations geo data and the other one is regarding
-the road load statistics for several roads, with exact portion of road indication.
+There are 2 csv files with data used for this project: one that comprises existing gas stations geo data (taken from mylpg.eu) and the 
+other one is regarding the road load statistics for several roads, with exact portion of road indication.
